@@ -1,0 +1,67 @@
+{
+  "next": "./data-3.json",
+  "prev": "./data-1.json",
+  "count": 3,
+  "data": [
+    {
+      "id": 11,
+      "user": "marta123",
+      "email": "marta@example.com",
+      "nombrecompleto": "Marta Pérez"
+    },
+    {
+      "id": 12,
+      "user": "javier456",
+      "email": "javier@example.com",
+      "nombrecompleto": "Javier López"
+    },
+    {
+      "id": 13,
+      "user": "elena789",
+      "email": "elena@example.com",
+      "nombrecompleto": "Elena Fernández"
+    },
+    {
+      "id": 14,
+      "user": "marcos012",
+      "email": "marcos@example.com",
+      "nombrecompleto": "Marcos Sánchez"
+    },
+    {
+      "id": 15,
+      "user": "raquel345",
+      "email": "raquel@example.com",
+      "nombrecompleto": "Raquel Martínez"
+    },
+    {
+      "id": 16,
+      "user": "diego678",
+      "email": "diego@example.com",
+      "nombrecompleto": "Diego Fernández"
+    },
+    {
+      "id": 17,
+      "user": "patricia901",
+      "email": "patricia@example.com",
+      "nombrecompleto": "Patricia García"
+    },
+    {
+      "id": 18,
+      "user": "victor234",
+      "email": "victor@example.com",
+      "nombrecompleto": "Víctor Sánchez"
+    },
+    {
+      "id": 19,
+      "user": "cristina567",
+      "email": "cristina@example.com",
+      "nombrecompleto": "Cristina Martínez"
+    },
+    {
+      "id": 20,
+      "user": "alvaro890",
+      "email": "alvaro@example.com",
+      "nombrecompleto": "Álvaro López"
+    }
+  ]
+}

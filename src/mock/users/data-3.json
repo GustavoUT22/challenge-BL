@@ -1,0 +1,55 @@
+{
+  "next": null,
+  "prev": "./data-2.json",
+  "count": 3,
+  "data": [
+    {
+      "id": 21,
+      "user": "andrea123",
+      "email": "andrea@example.com",
+      "nombrecompleto": "Andrea Díaz"
+    },
+    {
+      "id": 22,
+      "user": "francisco456",
+      "email": "francisco@example.com",
+      "nombrecompleto": "Francisco Ruiz"
+    },
+    {
+      "id": 23,
+      "user": "maria789",
+      "email": "maria@example.com",
+      "nombrecompleto": "María Pérez"
+    },
+    {
+      "id": 24,
+      "user": "roberto012",
+      "email": "roberto@example.com",
+      "nombrecompleto": "Roberto González"
+    },
+    {
+      "id": 25,
+      "user": "isabel345",
+      "email": "isabel@example.com",
+      "nombrecompleto": "Isabel Romero"
+    },
+    {
+      "id": 26,
+      "user": "jorge678",
+      "email": "jorge@example.com",
+      "nombrecompleto": "Jorge Sánchez"
+    },
+    {
+      "id": 27,
+      "user": "elena901",
+      "email": "elena@example.com",
+      "nombrecompleto": "Elena Pérez"
+    },
+    {
+      "id": 28,
+      "user": "marcos234",
+      "email": "marcos@example.com",
+      "nombrecompleto": "Marcos Martínez"
+    }
+  ]
+}

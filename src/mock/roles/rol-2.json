@@ -1,0 +1,17 @@
+{
+  "next": "./rol-1.json",
+  "prev": "./rol-3.json",
+  "count": 3,
+  "data": [
+    { "id": 11, "user": "User11", "type": "typeB" },
+    { "id": 12, "user": "User12", "type": "typeC" },
+    { "id": 13, "user": "User13", "type": "typeA" },
+    { "id": 14, "user": "User14", "type": "typeB" },
+    { "id": 15, "user": "User15", "type": "typeC" },
+    { "id": 16, "user": "User16", "type": "typeA" },
+    { "id": 17, "user": "User17", "type": "typeB" },
+    { "id": 18, "user": "User18", "type": "typeC" },
+    { "id": 19, "user": "User19", "type": "typeA" },
+    { "id": 20, "user": "User20", "type": "typeB" }
+  ]
+}
